@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "format-check": "prettier --check \"**/*.js\"",
+    "test":         "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,9 @@
     "url": "https://github.com/AntoanYosifov/Task-2---Automating-Workflow-with-Git-Hooks-and-CI-CD-Integration/issues"
   },
   "homepage": "https://github.com/AntoanYosifov/Task-2---Automating-Workflow-with-Git-Hooks-and-CI-CD-Integration#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "prettier": "^3.6.2"
+  }
 }
