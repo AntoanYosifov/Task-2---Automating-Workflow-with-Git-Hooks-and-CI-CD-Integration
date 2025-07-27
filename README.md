@@ -5,4 +5,6 @@ Pre-push hook
 
 Pre-commit hook
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7795889-234a-4033-8cde-e66d50ee5de6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cacd9a7a-348f-4bee-92fe-d0b5c4463b71" />
+
 
